@@ -1,0 +1,36 @@
+<link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+
+<br><br>
+<div class="container-fluid well span6">
+    <div class="media">
+	<div class="row-fluid">
+        <div class="span2" style="padding-top:15px">
+		    <img src="https://cdn.iconscout.com/icon/free/png-256/bookmark-ribbon-mark-favourite-tick-marker-7-3237.png" width="50px" height="50px" class="media-object">
+        </div>
+        <div class="media-body">
+        <div class="span9">
+            <h3>Title</h3>
+            <span class="icon-globe"></span> <a class="" href="#">servidor.com</a> <br/>
+            <span class="icon-book"></span> Note:  <br/>
+            <span class="icon-time"></span> ##-##-####
+        </div>
+        
+        <div class="span1" style="padding-top:15px">
+            <div class="btn-group">
+                <a class="btn dropdown-toggle btn-info" data-toggle="dropdown" href="#">
+                    Action 
+                    <span class="icon-cog icon-white"></span><span class="caret"></span>
+                </a>
+                <ul class="dropdown-menu">
+                    <li><a href="#"><span class="icon-wrench"></span> Modify</a></li>
+                    <li><a href="#"><span class="icon-trash"></span> Delete</a></li>
+                </ul>
+            </div>
+        </div>
+        </div>
+</div>
+</div>
+</div>
